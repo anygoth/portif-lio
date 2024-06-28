@@ -163,8 +163,8 @@ box-shadow:inset 0 -100px 100px #000f;
 
 /* SOBRE */
 #sobre {
-  background: linear-gradient(120deg, #5f5fda9f, #191970),
-  url('https://dhg1h5j42swfq.cloudfront.net/2019/06/17205427/racismo.jpg') no-repeat;
+  background: linear-gradient(120deg, #5f5fda54, #19197086),
+  url('images/fotoperfil.jpg') no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding-top: 2rem;
